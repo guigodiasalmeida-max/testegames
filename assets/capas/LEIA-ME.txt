@@ -1,0 +1,7 @@
+Capas dos jogos. O nome do arquivo precisa ser igual ao "slug" do jogo (webp, png, jpg ou jpeg):
+  pixel-hook.webp
+  fuga-noturna.webp
+  faxineiro-de-fantasmas.webp
+  lago-lunar.webp
+  turno-da-noite.webp
+Proporção usada: 4:3. Para trocar uma capa, substitua o arquivo mantendo o nome.
